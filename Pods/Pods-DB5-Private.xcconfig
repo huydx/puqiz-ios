@@ -1,0 +1,5 @@
+#include "Pods-DB5.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/DB5" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/DB5" "${PODS_ROOT}/Headers/FLKAutoLayout" "${PODS_ROOT}/Headers/Facebook-iOS-SDK" "${PODS_ROOT}/Headers/Facebook-iOS-SDK/FacebookSDK" "${PODS_ROOT}/Headers/FlatUIKit"
+OTHER_LDFLAGS = -ObjC ${PODS_DB__OTHER_LDFLAGS}
+PODS_ROOT = ${SRCROOT}

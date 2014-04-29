@@ -1,0 +1,19 @@
+PODS:
+  - DB5 (0.0.1)
+  - Facebook-iOS-SDK (3.13.1)
+  - FlatUIKit (1.3)
+  - FLKAutoLayout (0.1.1)
+
+DEPENDENCIES:
+  - DB5
+  - Facebook-iOS-SDK
+  - FlatUIKit
+  - FLKAutoLayout
+
+SPEC CHECKSUMS:
+  DB5: 64b0ba5010a78cf83075fa4d0e22e296e428445f
+  Facebook-iOS-SDK: 47ae9e54684c84f93d75d4e6ab47cd031abdf406
+  FlatUIKit: 3b32b52bb3c266477709cfe4812ab2c877ae942b
+  FLKAutoLayout: fc04b932009174d4118ef4bda9dc8fedf1369efc
+
+COCOAPODS: 0.32.1
